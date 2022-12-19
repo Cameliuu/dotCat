@@ -18,6 +18,17 @@ public class ImageRequestBuilder
         return this;
     }
 
+    public ImageRequestBuilder HasBreeds(bool b)
+    {
+        _request.AddParameter("has_breeds",getIntFromBool(b));
+        return this;
+    }
+
+    public short getIntFromBool(bool b)
+    {
+        return (short)((b) ? 0 : 1);
+    }
+
     public RestRequest Build()
     {
         return _request;
