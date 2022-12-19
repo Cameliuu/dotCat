@@ -9,8 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../ClassLibrary1/Class1.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClassLibrary1/ClassLibrary1.csproj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClassLibrary1/ClassLibrary1.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.dotCat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dotCat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CatClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CatClient.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670767294247</updated>
       <workItem from="1670767297052" duration="3932000" />
-      <workItem from="1671466600415" duration="331000" />
+      <workItem from="1671466600415" duration="667000" />
     </task>
     <servers />
   </component>
