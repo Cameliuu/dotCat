@@ -28,7 +28,8 @@ public sealed class CatClient
 
     public RestResponse GetResponse(RestRequest request)
     {
-        Console.WriteLine("Test");
         return _client.GetAsync(request).Result;
     }
+
+    
 }
